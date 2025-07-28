@@ -1,0 +1,11 @@
+{
+    "first_name": "Victoria",
+    "last_name": "Brown",
+    "gender": "female",
+    "phone": "N13 W43-7075",
+    "address": {
+        "street_name": "Park Rd",
+        "city": "Chipman",
+        "country": "Canada"
+    }
+}
